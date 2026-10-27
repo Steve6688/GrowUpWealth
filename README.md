@@ -63,6 +63,8 @@ GrowUp 是一款以“看清资产、记录收支、完成储蓄目标”为核�
 
 ## 文档
 
+- [GitHub 同类项目调研与优化记录](docs/OPEN_SOURCE_RESEARCH.md)
+
 - [产品需求](docs/PRD.md)
 - [交互与视觉设计](docs/DESIGN.md)
 - [架构说明](docs/ARCHITECTURE.md)
